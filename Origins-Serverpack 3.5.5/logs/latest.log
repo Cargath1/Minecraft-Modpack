@@ -1,0 +1,356 @@
+[20:18:47] [main/INFO]: Loading for game Minecraft 1.16.5
+[20:18:47] [main/INFO]: Fabric is preparing JARs on first launch, this may take a few seconds...
+[20:18:52] [ForkJoinPool-1-worker-5/WARN]: The mod "cardinal-components-base" contains invalid entries in its mod json:
+- Unsupported root entry "side" at line 8 column 11
+[20:18:52] [ForkJoinPool-1-worker-5/WARN]: The mod "cardinal-components-entity" contains invalid entries in its mod json:
+- Unsupported root entry "side" at line 8 column 11
+[20:18:52] [ForkJoinPool-1-worker-4/WARN]: The mod "libcd" contains invalid entries in its mod json:
+- Unsupported root entry "licence" at line 9 column 12
+[20:18:52] [ForkJoinPool-1-worker-6/WARN]: The mod "libcd" contains invalid entries in its mod json:
+- Unsupported root entry "licence" at line 9 column 12
+[20:18:52] [ForkJoinPool-1-worker-7/WARN]: The mod "autoconfig1u" contains invalid entries in its mod json:
+- Unsupported root entry "$schema" at line 2 column 14
+[20:18:52] [ForkJoinPool-1-worker-4/WARN]: The mod "autoconfig1u" contains invalid entries in its mod json:
+- Unsupported root entry "$schema" at line 2 column 14
+[20:18:52] [ForkJoinPool-1-worker-3/WARN]: Non-Fabric mod JAR at "C:\Users\Nam_d\Desktop\Game Stuff\Minecraft\Mods\Server Pack\Origins-Serverpack\Origins-Serverpack\mods\EW_v0.5_1.16.5.jar", ignoring
+[20:18:52] [ForkJoinPool-1-worker-3/WARN]: The mod "autoconfig1u" contains invalid entries in its mod json:
+- Unsupported root entry "$schema" at line 2 column 14
+[20:18:52] [ForkJoinPool-1-worker-6/WARN]: The mod "cardinal-components-base" contains invalid entries in its mod json:
+- Unsupported root entry "side" at line 8 column 11
+[20:18:52] [ForkJoinPool-1-worker-6/WARN]: The mod "cardinal-components-entity" contains invalid entries in its mod json:
+- Unsupported root entry "side" at line 8 column 11
+[20:18:52] [main/WARN]: Mod `{}` ({}) uses 'requires' key in fabric.mod.json, which is not supported - use 'depends'
+[20:18:52] [main/WARN]: Mod `{}` ({}) uses 'requires' key in fabric.mod.json, which is not supported - use 'depends'
+[20:18:52] [main/INFO]: [FabricLoader] Loading 180 mods:
+	- adorn@1.14.1+1.16.5
+	- adventurez@1.2.6
+	- agape_space@0.0.12
+	- angerable-patch@1.1.0-1.16.4
+	- architectury@1.9.136
+	- arstheurgia@1.0.6
+	- artifacts@3.2.1+fabric
+	- artifice@0.14.6+1.16.5
+	- autoconfig1u@3.3.1
+	- battletowers@3.3.4-1.16.4
+	- bclib@0.1.43
+	- betterend@0.9.8.5-pre
+	- betternether@5.0.7
+	- blockus@2.1.8+1.16.5
+	- blue_endless_jankson@1.2.0
+	- byg@1.1.8
+	- campanion@1.3.5
+	- cardinal-components-base@2.8.3
+	- cardinal-components-chunk@2.8.1
+	- cardinal-components-entity@2.8.3
+	- cardinal-components-item@2.8.2
+	- chestcavity@2.12.2
+	- cinderscapes@1.3.3
+	- cloth-api@1.4.9
+	- cloth-armor-api-v1@1.4.9
+	- cloth-basic-math@0.5.1
+	- cloth-client-events-v0@1.5.47
+	- cloth-common-events-v1@1.4.9
+	- cloth-config2@4.11.26
+	- cloth-datagen-api-v1@1.4.9
+	- cloth-durability-bar-api-v1@1.4.9
+	- cloth-dynamic-registry-api-v1@1.4.9
+	- cloth-scissors-api-v1@1.4.9
+	- cloth-utils-v1@1.4.9
+	- cosmetic-armor@1.0.0
+	- croptopia@1.4.0
+	- cubifortunarum@1.0.1-1.16.5
+	- curios@0.0.13-1.16.5
+	- diggusmaximus@1.4.2-1.16.3
+	- earthtojavamobs@1.7.1+1.16.4
+	- eldritch_mobs@1.8.0
+	- enchant_giver@1.0.3
+	- enchdesc@2.0.6
+	- expanded_axe_enchanting@1.0.0
+	- expanded_trident_enchanting@1.0.0
+	- expandedstorage@7.0.0-alpha.32
+	- extraalchemy@1.4.5
+	- extraorigins@1.16.5-12
+	- fabric@0.36.0+1.16
+	- fabric-api-base@0.3.0+c88702897d
+	- fabric-api-lookup-api-v1@1.2.0+6aebe11a7d
+	- fabric-biome-api-v1@3.1.10+3661eaa17d
+	- fabric-blockrenderlayer-v1@1.1.5+ca58154a7d
+	- fabric-command-api-v1@1.1.1+351679a77d
+	- fabric-commands-v0@0.2.2+ca58154a7d
+	- fabric-containers-v0@0.1.11+9354966b7d
+	- fabric-content-registries-v0@0.2.1+ca58154a7d
+	- fabric-crash-report-info-v1@0.1.3+ca58154a7d
+	- fabric-dimensions-v1@2.0.6+61336ba97d
+	- fabric-entity-events-v1@1.1.0+c88702897d
+	- fabric-events-interaction-v0@0.4.3+f941baf07d
+	- fabric-events-lifecycle-v0@0.2.1+ca58154a7d
+	- fabric-game-rule-api-v1@1.0.6+ca58154a7d
+	- fabric-item-api-v1@1.2.1+ca58154a7d
+	- fabric-item-groups-v0@0.2.7+2868a2287d
+	- fabric-key-binding-api-v1@1.0.4+9354966b7d
+	- fabric-keybindings-v0@0.2.1+ca58154a7d
+	- fabric-language-kotlin@1.6.1+kotlin.1.5.10
+	- fabric-lifecycle-events-v1@1.2.1+ca58154a7d
+	- fabric-loot-tables-v1@1.0.2+ca58154a7d
+	- fabric-mining-levels-v0@0.1.3+ca58154a7d
+	- fabric-models-v0@0.3.0+bc7a746f7d
+	- fabric-networking-api-v1@1.0.3+e3c9d0627d
+	- fabric-networking-blockentity-v0@0.2.8+ca58154a7d
+	- fabric-networking-v0@0.3.2+ca58154a7d
+	- fabric-object-builder-api-v1@1.9.5+c88702897d
+	- fabric-object-builders-v0@0.7.2+ca58154a7d
+	- fabric-particles-v1@0.2.4+ca58154a7d
+	- fabric-registry-sync-v0@0.7.4+ca58154a7d
+	- fabric-renderer-api-v1@0.4.3+0ef801b67d
+	- fabric-renderer-indigo@0.4.4+ca58154a7d
+	- fabric-renderer-registries-v1@2.3.0+2868a2287d
+	- fabric-rendering-data-attachment-v1@0.1.5+ca58154a7d
+	- fabric-rendering-fluids-v1@0.1.13+ca58154a7d
+	- fabric-rendering-v0@1.1.2+ca58154a7d
+	- fabric-rendering-v1@1.6.0+2868a2287d
+	- fabric-resource-loader-v0@0.4.6+2868a2287d
+	- fabric-screen-api-v1@1.0.0+c045166c7d
+	- fabric-screen-handler-api-v1@1.1.5+9354966b7d
+	- fabric-structure-api-v1@1.1.11+ca0ef93d7d
+	- fabric-tag-extensions-v0@1.1.1+ca58154a7d
+	- fabric-textures-v0@1.0.6+ca58154a7d
+	- fabric-tool-attribute-api-v1@1.2.7+8183d3957d
+	- fabricloader@0.11.6
+	- fallflyinglib@1.1.0
+	- fatxporbs@0.0.9
+	- geckolib3@3.0.40
+	- gildednetherite@1.0.0
+	- givemehats@1.5.1
+	- glassential@1.16.4-1.1.5
+	- hookshot@14.0
+	- inmis@2.2.1-1.16.5
+	- inventorysorter@1.7.9-1.16
+	- jankson@3.0.1+j1.2.0
+	- java@8
+	- kyrptconfig@1.1.6-1.16
+	- libcd@3.0.3+1.16.3
+	- libgui@3.3.3+1.16.5
+	- libstructure@1.5
+	- lithium@0.6.6
+	- lonsdaleite@1.0.15
+	- maybe-data@1.0.0-1.16.2
+	- mcda@1.5.0
+	- mcdar@1.2.0
+	- mcdw@3.2.0
+	- mcsa@2.3.2
+	- minecraft@1.16.5
+	- mo_glass@1.5-MC1.16.5
+	- moborigins@1.4.0
+	- modify-drops-api@0.3.1
+	- mostructures@1.2.0-1.16.5
+	- multi_item_lib@1.3.0
+	- netherite_plus@1.4.5-1.16.5
+	- noenchantcap@4.1.0
+	- omega-config@1.0.4
+	- org_jetbrains_kotlin_kotlin-reflect@1.5.10
+	- org_jetbrains_kotlin_kotlin-stdlib@1.5.10
+	- org_jetbrains_kotlin_kotlin-stdlib-jdk7@1.5.10
+	- org_jetbrains_kotlin_kotlin-stdlib-jdk8@1.5.10
+	- org_jetbrains_kotlinx_kotlinx-coroutines-core-jvm@1.5.0
+	- org_jetbrains_kotlinx_kotlinx-coroutines-jdk8@1.5.0
+	- org_jetbrains_kotlinx_kotlinx-serialization-core-jvm@1.2.1
+	- org_jetbrains_kotlinx_kotlinx-serialization-json-jvm@1.2.1
+	- origins@0.7.3
+	- origins-classes@1.1.0
+	- oro_config@3.0.0
+	- pehkui@2.2.1+1.14.4-1.17
+	- phosphor@0.7.2+build.12
+	- reach-entity-attributes@1.1.1
+	- reborncore@4.7.3+build.136
+	- redbits@1.8.0
+	- repurposed_structures@1.16.5-1.11.5-fabric
+	- roughlyenoughitems@5.12.248
+	- roughlyenoughitems-api@5.12.248
+	- roughlyenoughitems-default-plugin@5.12.248
+	- roughlyenoughitems-runtime@5.12.248
+	- sandwichable@1.2-beta5
+	- shulkerutils@1.0.1-1.16
+	- slimeorigin@2.1.0
+	- sodium@0.1.0
+	- spellbound@1.3.0
+	- static-content@1.0.2-1.16.2
+	- staticdata@1.1.2
+	- step-height-entity-attribute@1.0.0
+	- structure-helpers@3.0.0
+	- team_reborn_energy@0.1.1
+	- techreborn@3.8.4+build.236
+	- terraform-biome-builder-api-v1@1.0.4
+	- terraform-config-api-v1@1.0.3
+	- terraform-dirt-api-v1@1.1.3
+	- terraform-overworld-biome-extensions-api-v1@1.0.3
+	- terraform-shapes-api-v1@1.0.3
+	- terraform-surfaces-api-v1@1.0.3
+	- terraform-tree-api-v1@1.0.4
+	- terraform-wood-api-v1@1.0.3
+	- terrestria@2.2.0
+	- the_bumblezone@1.16.5-2.4.10-fabric
+	- tk_valoeghese_zoesteriaconfig@1.3.6
+	- toms_storage@1.1.12
+	- transferchestmod@1.1.4
+	- transparent_cosmetics@1.2.0
+	- trinkets@2.6.7
+	- upgradedechests@1.0.1-1.16
+	- vafoen@1.1.1
+	- voxelmap@1.10.15
+	- voyager@1.0.0
+	- waila@1.9.22
+	- wolveswitharmor@1.5.4-1.16.5
+	- yummyfoods@1.3
+	- zoob@3.0.0
+[20:18:52] [main/WARN]: Mod `betterend` (0.9.8.5-pre) uses more dot-separated version components than SemVer allows; support for this is currently not guaranteed.
+[20:18:53] [main/INFO]: SpongePowered MIXIN Subsystem Version=0.8.2 Source=file:/C:/Users/Nam_d/Desktop/Game%20Stuff/Minecraft/Mods/Server%20Pack/Origins-Serverpack/Origins-Serverpack/fabric-server-launch.jar Service=Knot/Fabric Env=SERVER
+[20:18:53] [main/INFO]: Loaded configuration file for Lithium: 80 options available, 0 override(s) found
+[20:18:53] [main/WARN]: Reference map 'yummy-foods-refmap.json' for YummyFoods.mixins.json could not be read. If this is a development environment you can ignore this message
+[20:18:53] [main/WARN]: Error loading class: net/minecraft/class_918 (java.lang.ClassNotFoundException: net/minecraft/class_918)
+[20:18:53] [main/WARN]: @Mixin target net.minecraft.class_918 was not found cubifortunarum.mixins.json:ItemRendererAccessor
+[20:18:53] [main/WARN]: Error loading class: net/minecraft/class_746 (java.lang.ClassNotFoundException: net/minecraft/class_746)
+[20:18:53] [main/WARN]: @Mixin target net.minecraft.class_746 was not found architectury.mixins.json:PlayerAttackInvoker
+[20:18:53] [main/WARN]: Error loading class: net/minecraft/class_745 (java.lang.ClassNotFoundException: net/minecraft/class_745)
+[20:18:53] [main/WARN]: @Mixin target net.minecraft.class_745 was not found architectury.mixins.json:PlayerAttackInvoker
+[20:18:53] [main/WARN]: Error loading class: net/minecraft/class_465 (java.lang.ClassNotFoundException: net/minecraft/class_465)
+[20:18:53] [main/WARN]: @Mixin target net.minecraft.class_465 was not found curios.mixins.json:HandledScreenMixin
+[20:18:53] [main/WARN]: Error loading class: net/minecraft/class_638 (java.lang.ClassNotFoundException: net/minecraft/class_638)
+[20:18:53] [main/WARN]: @Mixin target net.minecraft.class_638 was not found sandwichable.mixins.json:ClientWorldMixin
+[20:18:53] [main/WARN]: Error loading class: net/minecraft/class_471 (java.lang.ClassNotFoundException: net/minecraft/class_471)
+[20:18:53] [main/WARN]: @Mixin target net.minecraft.class_471 was not found noenchantcap.mixins.json:AnvilScreenMixin
+[20:18:53] [main/WARN]: Error loading class: net/minecraft/class_970 (java.lang.ClassNotFoundException: net/minecraft/class_970)
+[20:18:53] [main/WARN]: @Mixin target net.minecraft.class_970 was not found mcda.mixins.json:ArmorFeatureRendererMixin
+[20:18:53] [main/WARN]: @Mixin target net/minecraft/class_3898$class_3208 is public in fabric-networking-api-v1.mixins.json:accessor.EntityTrackerAccessor and should be specified in value
+[20:18:53] [main/WARN]: Error loading class: org/jetbrains/annotations/ApiStatus$ScheduledForRemoval (java.lang.ClassNotFoundException: org/jetbrains/annotations/ApiStatus$ScheduledForRemoval)
+[20:18:59] [main/WARN]: Method overwrite conflict for method_8192 in expanded_axe_enchanting.mixins.json:AxesCanHaveKnockback, previously written by com.smushytaco.expanded_trident_enchanting.mixins.TridentsCanHaveKnockback. Skipping method.
+[20:18:59] [main/WARN]: Method overwrite conflict for method_8192 in expanded_axe_enchanting.mixins.json:AxesCanHaveFireAspect, previously written by com.smushytaco.expanded_trident_enchanting.mixins.TridentsCanHaveFireAspect. Skipping method.
+[20:18:59] [main/WARN]: Method overwrite conflict for method_8192 in expanded_axe_enchanting.mixins.json:AxesCanHaveLooting, previously written by com.smushytaco.expanded_trident_enchanting.mixins.TridentsCanHaveLooting. Skipping method.
+[20:19:00] [main/ERROR]: No data fixer registered for honey_slime
+[20:19:03] [main/INFO]: [Agape Space Mod] Initializing
+[20:19:03] [main/INFO]: [Agape Space Mod] Planet configs loaded.
+[20:19:03] [main/INFO]: [Agape Space Mod] Loading skybox for [14]...
+[20:19:03] [main/INFO]: [Agape Space Mod]  => [all],[agape_space:textures/environment/stars.png]
+[20:19:03] [main/INFO]: [Agape Space Mod] Loading skybox for [10]...
+[20:19:03] [main/INFO]: [Agape Space Mod] Loading skybox for [15]...
+[20:19:03] [main/INFO]: [Agape Space Mod]  => [all],[agape_space:textures/environment/stars.png]
+[20:19:03] [main/INFO]: [Agape Space Mod] Loading skybox for [17]...
+[20:19:03] [main/INFO]: [Agape Space Mod]  => [all],[agape_space:textures/environment/stars.png]
+[20:19:03] [main/INFO]: [Agape Space Mod] Loading skybox for [18]...
+[20:19:03] [main/INFO]: [Agape Space Mod]  => [all],[agape_space:textures/environment/stars.png]
+[20:19:03] [main/INFO]: [Agape Space Mod] Loading skybox for [101]...
+[20:19:03] [main/INFO]: [Agape Space Mod]  => [all],[agape_space:textures/environment/stars.png]
+[20:19:03] [main/INFO]: [Agape Space Mod] CLOUDS.16=agape_space:textures/environment/no_clouds.png
+[20:19:03] [main/INFO]: [Agape Space Mod] SUN.16=agape_space:textures/environment/sun_small.png
+[20:19:03] [main/INFO]: [Agape Space Mod] MOON.16=agape_space:textures/environment/no_moon.png
+[20:19:04] [main/INFO]: ModifyDropsAPI initialized!
+[20:19:04] [main/INFO]: Reborn core is done for now, now to let other mods have their turn...
+[20:19:04] [main/INFO]: [STDOUT]: diggusmaximus Config not found! Creating one.
+[20:19:04] [main/INFO]: [STDOUT]: diggusmaximus Failed to load config! Overwriting with default config.
+[20:19:04] [main/INFO]: [STDOUT]: diggusmaximus Config not found! Creating one.
+[20:19:04] [main/INFO]: [STDOUT]: diggusmaximus Failed to load config! Overwriting with default config.
+[20:19:04] [main/INFO]: [STDOUT]: diggusmaximus Config not found! Creating one.
+[20:19:04] [main/INFO]: [STDOUT]: diggusmaximus Failed to load config! Overwriting with default config.
+[20:19:04] [main/INFO]: Discovered plugin waila:core provided by waila at mcp.mobius.waila.addons.core.PluginCore
+[20:19:04] [main/INFO]: Discovered plugin waila:vanilla provided by waila at mcp.mobius.waila.addons.minecraft.PluginMinecraft
+[20:19:04] [main/INFO]: Registering plugin at mcp.mobius.waila.addons.core.PluginCore
+[20:19:04] [main/INFO]: Registering plugin at mcp.mobius.waila.addons.minecraft.PluginMinecraft
+[20:19:05] [main/INFO]: TechReborn setup done!
+[20:19:07] [main/INFO]: Loaded 5 Static Content files for battletowers:towers
+[20:19:07] [main/INFO]: [STDERR]: java.io.FileNotFoundException: config\enchant_giver\enchants.json (The system cannot find the file specified)
+[20:19:07] [main/INFO]: [STDERR]: 	at java.io.FileInputStream.open0(Native Method)
+[20:19:07] [main/INFO]: [STDERR]: 	at java.io.FileInputStream.open(Unknown Source)
+[20:19:07] [main/INFO]: [STDERR]: 	at java.io.FileInputStream.<init>(Unknown Source)
+[20:19:07] [main/INFO]: [STDERR]: 	at java.util.Scanner.<init>(Unknown Source)
+[20:19:07] [main/INFO]: [STDERR]: 	at wraith.enchant_giver.Config.readFile(Config.java:51)
+[20:19:07] [main/INFO]: [STDERR]: 	at wraith.enchant_giver.EnchantsList.loadEnchants(EnchantsList.java:74)
+[20:19:07] [main/INFO]: [STDERR]: 	at wraith.enchant_giver.EnchantGiver.onInitialize(EnchantGiver.java:51)
+[20:19:07] [main/INFO]: [STDERR]: 	at net.fabricmc.loader.entrypoint.minecraft.hooks.EntrypointUtils.invoke0(EntrypointUtils.java:47)
+[20:19:07] [main/INFO]: [STDERR]: 	at net.fabricmc.loader.entrypoint.minecraft.hooks.EntrypointUtils.invoke(EntrypointUtils.java:33)
+[20:19:07] [main/INFO]: [STDERR]: 	at net.fabricmc.loader.entrypoint.minecraft.hooks.EntrypointServer.start(EntrypointServer.java:33)
+[20:19:07] [main/INFO]: [STDERR]: 	at net.minecraft.server.Main.main(Main.java:92)
+[20:19:07] [main/INFO]: [STDERR]: 	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+[20:19:07] [main/INFO]: [STDERR]: 	at sun.reflect.NativeMethodAccessorImpl.invoke(Unknown Source)
+[20:19:07] [main/INFO]: [STDERR]: 	at sun.reflect.DelegatingMethodAccessorImpl.invoke(Unknown Source)
+[20:19:07] [main/INFO]: [STDERR]: 	at java.lang.reflect.Method.invoke(Unknown Source)
+[20:19:07] [main/INFO]: [STDERR]: 	at net.fabricmc.loader.game.MinecraftGameProvider.launch(MinecraftGameProvider.java:234)
+[20:19:07] [main/INFO]: [STDERR]: 	at net.fabricmc.loader.launch.knot.Knot.launch(Knot.java:153)
+[20:19:07] [main/INFO]: [STDERR]: 	at net.fabricmc.loader.launch.knot.KnotServer.main(KnotServer.java:28)
+[20:19:07] [main/INFO]: [STDERR]: 	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+[20:19:07] [main/INFO]: [STDERR]: 	at sun.reflect.NativeMethodAccessorImpl.invoke(Unknown Source)
+[20:19:07] [main/INFO]: [STDERR]: 	at sun.reflect.DelegatingMethodAccessorImpl.invoke(Unknown Source)
+[20:19:07] [main/INFO]: [STDERR]: 	at java.lang.reflect.Method.invoke(Unknown Source)
+[20:19:07] [main/INFO]: [STDERR]: 	at net.fabricmc.loader.launch.server.FabricServerLauncher.launch(FabricServerLauncher.java:68)
+[20:19:07] [main/INFO]: [STDERR]: 	at net.fabricmc.loader.launch.server.FabricServerLauncher.setup(FabricServerLauncher.java:114)
+[20:19:07] [main/INFO]: [STDERR]: 	at net.fabricmc.loader.launch.server.FabricServerLauncher.main(FabricServerLauncher.java:56)
+[20:19:07] [main/INFO]: [STDERR]: java.lang.IllegalStateException: Not a JSON Object: null
+[20:19:07] [main/INFO]: [STDERR]: 	at com.google.gson.JsonElement.getAsJsonObject(JsonElement.java:90)
+[20:19:07] [main/INFO]: [STDERR]: 	at wraith.enchant_giver.Config.getJsonObject(Config.java:62)
+[20:19:07] [main/INFO]: [STDERR]: 	at wraith.enchant_giver.EnchantsList.loadEnchants(EnchantsList.java:74)
+[20:19:07] [main/INFO]: [STDERR]: 	at wraith.enchant_giver.EnchantGiver.onInitialize(EnchantGiver.java:51)
+[20:19:07] [main/INFO]: [STDERR]: 	at net.fabricmc.loader.entrypoint.minecraft.hooks.EntrypointUtils.invoke0(EntrypointUtils.java:47)
+[20:19:07] [main/INFO]: [STDERR]: 	at net.fabricmc.loader.entrypoint.minecraft.hooks.EntrypointUtils.invoke(EntrypointUtils.java:33)
+[20:19:07] [main/INFO]: [STDERR]: 	at net.fabricmc.loader.entrypoint.minecraft.hooks.EntrypointServer.start(EntrypointServer.java:33)
+[20:19:07] [main/INFO]: [STDERR]: 	at net.minecraft.server.Main.main(Main.java:92)
+[20:19:07] [main/INFO]: [STDERR]: 	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+[20:19:07] [main/INFO]: [STDERR]: 	at sun.reflect.NativeMethodAccessorImpl.invoke(Unknown Source)
+[20:19:07] [main/INFO]: [STDERR]: 	at sun.reflect.DelegatingMethodAccessorImpl.invoke(Unknown Source)
+[20:19:07] [main/INFO]: [STDERR]: 	at java.lang.reflect.Method.invoke(Unknown Source)
+[20:19:07] [main/INFO]: [STDERR]: 	at net.fabricmc.loader.game.MinecraftGameProvider.launch(MinecraftGameProvider.java:234)
+[20:19:07] [main/INFO]: [STDERR]: 	at net.fabricmc.loader.launch.knot.Knot.launch(Knot.java:153)
+[20:19:07] [main/INFO]: [STDERR]: 	at net.fabricmc.loader.launch.knot.KnotServer.main(KnotServer.java:28)
+[20:19:07] [main/INFO]: [STDERR]: 	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+[20:19:07] [main/INFO]: [STDERR]: 	at sun.reflect.NativeMethodAccessorImpl.invoke(Unknown Source)
+[20:19:07] [main/INFO]: [STDERR]: 	at sun.reflect.DelegatingMethodAccessorImpl.invoke(Unknown Source)
+[20:19:07] [main/INFO]: [STDERR]: 	at java.lang.reflect.Method.invoke(Unknown Source)
+[20:19:07] [main/INFO]: [STDERR]: 	at net.fabricmc.loader.launch.server.FabricServerLauncher.launch(FabricServerLauncher.java:68)
+[20:19:07] [main/INFO]: [STDERR]: 	at net.fabricmc.loader.launch.server.FabricServerLauncher.setup(FabricServerLauncher.java:114)
+[20:19:07] [main/INFO]: [STDERR]: 	at net.fabricmc.loader.launch.server.FabricServerLauncher.main(FabricServerLauncher.java:56)
+[20:19:07] [main/ERROR]: Error while parsing following json:
+
+
+
+
+[20:19:07] [main/INFO]: [Enchant Giver] has been initiated.
+[20:19:08] [main/INFO]: Origins 0.7.3 is initializing. Have fun!
+[20:19:11] [main/INFO]: Tom's Storage Setup starting
+[20:19:12] [main/INFO]: [Earth2Java] Mod loaded! Enjoy :D
+[20:19:12] [main/INFO]: Registering pehkui effects
+[20:19:12] [main/INFO]: Registered 16 status effects
+[20:19:12] [main/INFO]: Registered dummy effects
+[20:19:12] [main/INFO]: Registering pehkui potions
+[20:19:12] [main/INFO]: Registered 39 potions
+[20:19:12] [main/INFO]: Registering pehkui recipes
+[20:19:12] [main/INFO]: Curios slot type registered
+[20:19:13] [main/INFO]: [Artifacts] Running compat handler for Origins
+[20:19:13] [main/INFO]: [Artifacts] Finished initialization
+[20:19:13] [main/INFO]: Loaded 5 Static Content files for wolveswitharmor:wolf_armor
+[20:19:13] [main/INFO]: Brutes: Replacing sensors.
+[20:19:13] [main/INFO]: Piglins: Replacing sensors.
+[20:19:13] [main/INFO]: Starting provider: Item Tags
+[20:19:13] [main/INFO]: Item Tags finished after 0 ms
+[20:19:13] [main/INFO]: All providers took: 1 ms
+[20:19:13] [main/INFO]: [STDOUT]: May you find fine hats!
+[20:19:14] [main/INFO]: BYG: Blocks registered!
+[20:19:14] [main/INFO]: BYG: Items registered!
+[20:19:14] [main/ERROR]: No data fixer registered for byg:boat
+[20:19:14] [main/INFO]: BYG: Entities registered!
+[20:19:15] [main/INFO]: BYG: Biomes registered!
+[20:19:15] [main/INFO]: BYG: Decorators registered!
+[20:19:15] [main/INFO]: BYG: Features registered!
+[20:19:15] [main/INFO]: BYG: Surface builders Registered!
+[20:19:15] [main/INFO]: BYG: Registering block placer types!
+[20:19:15] [main/INFO]: Reading Sub-Biomes json
+[20:19:15] [main/INFO]: Reading json
+[20:19:15] [main/INFO]: Adding Numerical Biome ID's
+[20:19:15] [main/INFO]: Added Numerical Biome ID's!
+[20:19:15] [main/INFO]: BYG: "Common Setup" Event Complete!
+[20:19:15] [main/INFO]: BYG: Compostible Blocks Added!
+[20:19:15] [main/INFO]: BYG: Added Hoeable Blocks!
+[20:19:15] [main/INFO]: BYG: Added Flammables!
+[20:19:15] [main/INFO]: BYG: Added strippable Blocks...
+[20:19:15] [main/INFO]: BYG: "Load Complete" Event Complete!
+[20:19:16] [main/INFO]: [STDOUT]: Starting Mo Glass...
+[20:19:16] [main/INFO]: [STDOUT]: Registered betterend:old_bulbis_gardens
+[20:19:16] [main/ERROR]: Failed to load properties from file: server.properties
+[20:19:17] [main/WARN]: Failed to load eula.txt
+[20:19:17] [main/INFO]: You need to agree to the EULA in order to run the server. Go to eula.txt for more info.
